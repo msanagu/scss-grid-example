@@ -1,0 +1,15 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for Natours",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w sass/main.scss css/style.css --recursive"
+  },
+  "author": "Mary San Agustin",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  },
+  "devDependencies": {}
+}
